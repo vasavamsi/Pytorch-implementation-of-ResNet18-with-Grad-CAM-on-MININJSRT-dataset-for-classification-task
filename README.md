@@ -27,3 +27,7 @@ Accuracy | Precision | Recall
 --- | --- | --- 
 0.975 | 0.9772 | 0.975
 
+We have implemented Grad-CAM method to understand the decision making factors of the model. The heatmaps obtained are as shown below.
+
+![heatmaps_for_direction_classification drawio](https://github.com/vasavamsi/Training-ResNet18-on-MINIJSRT-dataset-for-classfication-alongwith-Grad-CAM-implementation/assets/58003228/f2a7a249-16d5-4416-9fdb-734b4d7778bc)
+
