@@ -3,13 +3,13 @@ This repo includes the Python code to Train ResNet18 on MINIJSRT dataset for Dir
 
 **Required installations**
 
-> torch
-> scikit
-> torchvision
-> torchmetrics
-> cv2
-> matplotlib
-> sklearn
+> torch, 
+> scikit, 
+> torchvision, 
+> torchmetrics, 
+> cv2, 
+> matplotlib, 
+> sklearn, 
 
 **Pre-requisites**
 
