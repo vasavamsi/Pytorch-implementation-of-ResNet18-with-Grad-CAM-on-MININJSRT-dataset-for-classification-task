@@ -23,3 +23,7 @@ AUC for 'Up' | AUC for 'Down' | AUC for 'Left' | AUC for 'Right'
 --- | --- | --- | --- 
 0.95 | 0.983 | 0.97 | 0.93 
 
+Accuracy | Precision | Recall
+--- | --- | --- 
+0.975 | 0.9772 | 0.975
+
