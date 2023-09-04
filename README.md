@@ -15,7 +15,7 @@ This repo includes the Python code to Train ResNet18 on MINIJSRT dataset for Dir
 
 Download Direction classification and Gender classfication dataset from MINIJSRT database. follow this link to accomplish the same: http://imgcom.jsrt.or.jp/minijsrtdb/. Split the dataset into train, validation and test sets. 
 
-### <u>**Direction Classification**</u>
+## <u>**Direction Classification**</u>
 
 train_direction, evaluation_direction and grad_cam direction can be used to train, evaluate and generate heatmaps accordingly.
 
